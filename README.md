@@ -36,7 +36,7 @@ banking77_pipeline/
 ### 1. Clone and install dependencies
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/tsilverberg/banking77-pipeline.git
 cd banking77_pipeline
 python3 -m venv venv
 source venv/bin/activate
