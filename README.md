@@ -8,6 +8,23 @@ This project demonstrates a **mini MLOps pipeline** for banking-related intent c
 - ✅ Model persistence (joblib)  
 - ✅ Mock deployment (FastAPI API)
 
+# 💡 Why This Project?
+
+I'm currently working on **agentic LLM solutions**, where intent classification is a critical component of agent routing and coordination. However, these solutions often rely on heavyweight or expensive architectures like OpenAI, which can:
+
+- Introduce latency  
+- Require fine-tuning or vector databases  
+- Be cost-prohibitive at scale
+
+With this project, I wanted to:
+
+- ✅ Revisit **traditional ML** techniques like TF-IDF and Logistic Regression  
+- ✅ Benchmark how **“old-school” ML** stacks up for narrow-domain intent detection  
+- ✅ Build a pipeline that’s fast, explainable, and cost-effective  
+
+It’s a practical exploration of the tradeoffs between **simple pipelines** and **modern LLM architectures** — and a reminder that **not all AI problems need transformers.**
+
+
 ---
 
 ## 📁 Project Structure
